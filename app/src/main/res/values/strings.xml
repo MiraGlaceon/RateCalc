@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RateCalc</string>
+    <string name="rate">Rate</string>
+    <string name="time">Time</string>
+    <string name="income">Additional</string>
+    <string name="incomeEditor">Add.</string>
+    <string name="add">count</string>
+    <string name="edit">edit</string>
+    <string name="hintAdditional">bonus, tips, etc...</string>
+    <string name="hintRate">per hour...</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="hintTime">hours worked...</string>
+    <string name="toastFillFields">Fill any field</string>
+    <string name="toastNeedlessNumber">Typed is needless number</string>
+    <string name="deleteEdit">Delete or Edit month: \"%s\"</string>
+    <string name="deleteMessage">Delete data of month: \"%s\"</string>
+
+    <string-array name="alertDialogItems">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+</resources>
